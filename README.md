@@ -7,7 +7,7 @@
 
 - 🎓 Formada em Informática para Internet pela <a href="https://www.etecparquedajuventude.com.br/">Etec Parque da Juventude</a> em 2017
 
-- 🌱 Atualmente estou interessada em desenvolvimento mobile e também estudando outras áreas da computação
+- 🌱 Atualmente estou estudando desenvolvimento mobile e também outras áreas da computação
 
 - 📫 email: **camilabezerril@outlook.com**
 
