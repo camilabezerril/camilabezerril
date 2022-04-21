@@ -47,7 +47,10 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"
       width="40" height="40" /> </a> 
-      <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
+</p>
+
+<p align="left"> 
+  <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"
       width="40" height="40" /> </a> 
       <a href="hhttps://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
