@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif" /></p>
+<p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif" style="border-radius:50%"/></p>
 
 
 - 🌱 Atualmente estou estudando desenvolvimento mobile e outras áreas da computação
