@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Camila</h1>
-<h3 align="center">Estudante de Sistemas de Informação na USP e engenheira de software no backend</h3>
+<h3 align="center">Estudante de Sistemas de Informação na USP e Engenheira de Software no Backend</h3>
 
 <br>
 
