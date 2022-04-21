@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, meu nome é Camila</h1>
-<h3 align="center">Estudante de Sistemas de Informação na USP e Engenheira de Software Backend</h3>
+<h3 align="center">Estudante de Sistemas de Informação na <a href="http://www.each.usp.br/si/">USP</a> e Engenheira de Software Backend</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif"/></p>
 
-- 🎓 Formada em Informática para Internet pela <a href="https://www.etecparquedajuventude.com.br/"> Etec Parque da Juventude</a> em 2017
+- 🎓 Formada em Informática para Internet pela <a href="https://www.etecparquedajuventude.com.br/">Etec Parque da Juventude</a> em 2017
 
 - 🌱 Atualmente estou interessada em desenvolvimento mobile e também estudando outras áreas da computação
 
