@@ -50,6 +50,9 @@
       <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"
       width="40" height="40" /> </a> 
+      <a href="hhttps://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"
+      width="40" height="40" /> </a> 
 </p>
 
 <br>
