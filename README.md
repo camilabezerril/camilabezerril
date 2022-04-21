@@ -5,8 +5,9 @@
 
 <p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif"/></p>
 
+- Formada em informática para internet pela <a href="https://www.etecparquedajuventude.com.br/"> Etec Parque da Juventude</a> em 2017
 
-- 🌱 Atualmente estou estudando desenvolvimento mobile e outras áreas da computação
+- 🌱 Atualmente estou interessada em desenvolvimento mobile e também estudando outras áreas da computação
 
 - 📫 email: **camilabezerril@outlook.com**
 
