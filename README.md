@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif"/>/p>
+<p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif"/></p>
 
 
 - 🌱 Atualmente estou estudando desenvolvimento mobile e outras áreas da computação
@@ -53,8 +53,8 @@
   <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"
       width="40" height="40" /> </a> 
-      <a href="hhttps://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices"
       width="40" height="40" /> </a> 
 </p>
 
