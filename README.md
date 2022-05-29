@@ -3,8 +3,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/camilabezerril/camilabezerril/blob/main/starter_animation_500.gif"/></p>
-
 - 🎓 Formada em Informática para Internet pela <a href="https://www.etecparquedajuventude.com.br/">Etec Parque da Juventude</a> em 2017
 
 - 🌱 Atualmente estou estudando desenvolvimento mobile e também outras áreas da computação
