@@ -58,4 +58,4 @@
 
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilabezerril&theme=github_dark&layout=compact&hide_border=true&custom_title=Minhas%20linguagens%20mais%20usadas&langs_count=6) ![Camila's Stats](https://github-readme-stats.vercel.app/api?username=camilabezerril&theme=github_dark&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilabezerril&theme=github_dark&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=6) ![Camila's Stats](https://github-readme-stats.vercel.app/api?username=camilabezerril&theme=github_dark&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
